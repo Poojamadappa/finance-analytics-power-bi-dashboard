@@ -87,4 +87,12 @@ The objective of this dashboard is to help stakeholders answer business question
 ### Transaction Analysis
 
 ![Transaction Dashboard](dashboard/Transaction%20Analysis.png)
+<h2>📷 Dashboard Preview</h2>
 
+<h3>Overview Analysis</h3>
+
+<img src="dashboard/overview-analysis.png" width="900"/>
+
+<h3>Transaction Analysis</h3>
+
+<img src="dashboard/transaction-analysis.png" width="900"/>
