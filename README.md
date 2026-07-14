@@ -76,3 +76,15 @@ The objective of this dashboard is to help stakeholders answer business question
 - KPI Reporting
 - Data Visualization
 
+## Dashboard Preview
+
+### Overview Analysis
+
+![Overview Dashboard](dashboard/Over%20View%20Analysis.png)
+
+---
+
+### Transaction Analysis
+
+![Transaction Dashboard](dashboard/Transaction%20Analysis.png)
+
